@@ -3,9 +3,9 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
+                title: 'Comsats University Isalmabad Abbottabad Campus',
+                degree: 'BS, Software Engineering',
+                detail: "Bachelor's Degree in Software Engineering from Comsats Abbottabad.",
                 year: '2018-2022'
             },
             {
@@ -13,14 +13,14 @@ const background = [
                 title: 'Peshawar Model Degree College',
                 degree: 'HSSC, Pre Engineering',
                 detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
+                year: '2016-2018'
             },
             {
                 id: 2,
-                title: 'Falcon Academy',
+                title: 'Iqra Model School',
                 degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                detail: "Completed SSC part 1 and part 2 in Science subjects from Iqra Model School Lower Dir Timergara",
+                year: '2014-2016'
             },
         ]
     },
@@ -32,7 +32,7 @@ const background = [
                 role: 'Junior Frontend Developer',
                 url: 'https://jmm.ltd/',
                 desc: 'As a junior frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
+                year: '01/2023 - Present',
                 location: 'Peshawar, Pakistan'
             },
             {
@@ -41,7 +41,7 @@ const background = [
                 role: 'Internee',
                 url: 'no website',
                 desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
+                year: '05/2022 - Present',
                 location: 'Peshawar, Pakistan'
             },
             {

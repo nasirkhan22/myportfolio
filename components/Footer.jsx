@@ -13,13 +13,13 @@ const Footer = () => {
                     <span>2023 All Rights Reserved.</span>
                 </div>
                 <div className="flex items-center">
-                    <a href='https://www.fiverr.com/codeworthy' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Osama</span></a>
+                    <a href='https://www.fiverr.com/nasirkhan734' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Nasir</span></a>
                 </div>
                 <div className="hidden md:flex items-center">
                     <div className="mr-1 text-base">
                         <MdMail />
                     </div>
-                    <div>iosamajavaid@gmail.com</div>
+                    <div>nasirwaheed999@gmail.com</div>
                 </div>
             </div>
         </div>

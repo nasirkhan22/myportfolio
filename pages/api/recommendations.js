@@ -11,7 +11,7 @@ const recommendationCard = [
   {
     id: 1,
     name: 'Nasir Khan',
-    image: "images/nasir.jpg",
+    image: "images/osama.jpg",
     designation: 'MERN | JavaScript | Tailwind | Sass | Bootstrap',
     view: "I wholeheartedly recommend Osama as a talented React frontend developer with an incredible flair for UI/UX design. His proficiency in Node.js further enhances his capabilities, allowing him to build robust and scalable applications. Osama's attention to detail, problem-solving skills, and dedication to delivering exceptional results make him a valuable addition to any development team.",
     linkednURL: "https://www.linkedin.com/in/nasirkhan22/"
